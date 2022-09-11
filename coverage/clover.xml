@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1662911055859" clover="3.2.0">
+  <project timestamp="1662911055859" name="All files">
+    <metrics statements="25" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7" elements="33" coveredelements="31" complexity="0" loc="25" ncloc="25" packages="2" files="6" classes="6"/>
+    <package name="App">
+      <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="App.styles.tsx" path="/Users/furkanalptokac/Desktop/projects-personal/frontend-testing/src/components/App/App.styles.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+      <file name="App.tsx" path="/Users/furkanalptokac/Desktop/projects-personal/frontend-testing/src/components/App/App.tsx">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/furkanalptokac/Desktop/projects-personal/frontend-testing/src/components/App/index.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Form">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="Form.styles.tsx" path="/Users/furkanalptokac/Desktop/projects-personal/frontend-testing/src/components/Form/Form.styles.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="Form.tsx" path="/Users/furkanalptokac/Desktop/projects-personal/frontend-testing/src/components/Form/Form.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="41" count="4" type="stmt"/>
+        <line num="55" count="4" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/furkanalptokac/Desktop/projects-personal/frontend-testing/src/components/Form/index.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
